@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Josi Kie
-- 👀 I’m interested in C++, python and blockchain
+- 👀 I’m interested in C++, python, AI, and blockchain
 - 🌱 I’m currently building application with C++, or flask and python
 - 📫 How to reach me : email me on kiejosi12@gmail.com or telegram @josikie
